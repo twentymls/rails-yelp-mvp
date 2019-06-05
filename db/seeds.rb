@@ -41,3 +41,4 @@ restaurants_attributes = [
 ]
 
 Restaurant.create!(restaurants_attributes)
+
